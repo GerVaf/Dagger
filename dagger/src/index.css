@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* NavLink Acitve style in Sidebar */
+.active {
+  @apply bg-yellow-500/40;
+}
+
+
